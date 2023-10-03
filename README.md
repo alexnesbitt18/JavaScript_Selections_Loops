@@ -15,9 +15,9 @@ Exercise Repo: [JavaScript Loops](https://github.com/Bryantellius/JavaScript_Sel
 
 In this exercise, you will be counting from 1 - 100. For each odd number, you will print the number to the console. If the number is even, do nothing.
 
-1. Create a `for` loop that evaluates numbers from 1 to 100.
-2. Inside the loop body, write an `if/else` selection statement that checks whether a number is odd
-3. If the number is odd, then print the number to the console, otherwise do nothing and continue to the next number
+1. Create a `for` loop that evaluates numbers from 1 to 100. --Done
+2. Inside the loop body, write an `if/else` selection statement that checks whether a number is odd --Done
+3. If the number is odd, then print the number to the console, otherwise do nothing and continue to the next number --Done
 
 ## Exercise 2: FIZZBUZZ
 
